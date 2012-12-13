@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mesh>
+   <geom>gate.obj</geom>
+   <texture>gate.png</texture>
+   <material>block.png</material>
+   <glow>null.png</glow>
+
+</mesh>

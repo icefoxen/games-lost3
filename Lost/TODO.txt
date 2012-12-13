@@ -1,0 +1,43 @@
+To do next:
+Take out drag and put in a max speed
+AI behaviors: Arrive, AvoidObstacles, Wander, PathFollow, Separation, Cohesion, Alignment, LeaderFollowing
+Steering vectors?
+Need to make ships with turrets
+Give enemies appropriate weapons
+Consider powerups
+No friendly fire?
+Balance enemy stats some and generally make them better (more)
+Better wave combat, a little
+Guided missiles
+More weapon types
+
+
+Oh yeah... sound and music.  OpenTK includes OpenAL, theoretically.
+Weapon firing
+Particles
+
+To do eventually:
+Read config file for things like screen size, keybindings, etc.
+Multiple lights
+AI
+Saving and loading
+Eventually collision functions should return the point of collision, so we can for instance spawn effects at
+that point.
+
+
+Text and UI:
+http://www.opentk.com/node/1353
+Wire stats up to the gui
+Make text display work
+Make weapon chooser work
+Game over screen
+
+Effects:
+Better particles
+Animations
+
+
+Sound and music:
+http://www.opentk.com/node/2415 perhaps?
+Hey, OpenTK has OpenAL built in, theoretically.
+

@@ -1,0 +1,37 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lost/Lost.cs">
+    <Files>
+      <File FileName="Lost/TODO.txt" Line="1" Column="1" />
+      <File FileName="Lost/GameState.cs" Line="42" Column="4" />
+      <File FileName="Lost/Lost.cs" Line="5" Column="18" />
+      <File FileName="Lost/Graphics.cs" Line="1" Column="1" />
+      <File FileName="Lost/Camera.cs" Line="1" Column="1" />
+      <File FileName="Lost/Control.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Lost" expanded="True">
+            <Node name="References" expanded="True" selected="True" />
+          </Node>
+          <Node name="Test" expanded="True" />
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True">
+          <Node name="Lost" expanded="True">
+            <Node name="Lost" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

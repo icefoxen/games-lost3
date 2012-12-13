@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mesh>
+   <geom>bird.obj</geom>
+   <texture>bird.png</texture>
+   <material>white.png</material>
+   <glow>null.png</glow>
+</mesh>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mesh>
+   <geom>rocket.obj</geom>
+   <texture>rocket.png</texture>
+   <material>block.png</material>
+   <glow>black.png</glow>
+
+</mesh>

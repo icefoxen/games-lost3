@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mesh>
+   <geom>testship.obj</geom>
+   <texture>scout.png</texture>
+   <material>white.png</material>
+   <glow>testship-glow.png</glow>
+</mesh>

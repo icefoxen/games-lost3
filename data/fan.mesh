@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mesh>
+   <geom>fan.obj</geom>
+   <texture>fan.png</texture>
+   <material>block.png</material>
+   <glow>black.png</glow>
+
+</mesh>
